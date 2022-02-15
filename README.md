@@ -6,7 +6,7 @@ Topic modelling.
 * Bill
 * Adam
 
-With ___ equity.
+With 50:50 equity with respect to Adan:Bill.
 
 ## Reading Order
 
@@ -16,13 +16,15 @@ All report content is in the directory:
 
 Our report should be read in the following order:
 
-* 01-
-* 02-
-* 03-
+* 01-Introduction
+* 02-Pre-Processing
+* 03-LDA Model
+* 04-LDA on Independent Years
+* 05-Conclusion
 
 ## Requirements
 
-
+Requirements for each file are loaded and downloaded as required.
 
 ## Evidence
 
@@ -30,5 +32,3 @@ Our working is shown in our own directories:
 
 * Bill_Evidence/
 * Adam_Evidence/
-
-Cheers
