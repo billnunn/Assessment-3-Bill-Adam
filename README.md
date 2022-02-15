@@ -6,7 +6,7 @@ Topic modelling.
 * Bill
 * Adam
 
-With 50:50 equity with respect to Adan:Bill.
+With 50:50 equity with respect to Adam:Bill.
 
 ## Reading Order
 
