@@ -18,7 +18,7 @@ Our report should be read in the following order:
 
 * 01-Introduction
 * 02-Pre-Processing
-* 03-LDA Model
+* 03-LDA and Prior Seeding
 * 04-LDA on Independent Years
 * 05-Conclusion
 
